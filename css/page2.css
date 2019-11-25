@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter&display=swap');
+body{
+  background-color:  #99BF60;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 18px;
+  color: #D95988;
+
+}
+body:hover{
+  background-color: #9BDAF2;
+}
+.one{
+    text-align: center;
+}
+.word{
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.description{
+  font-size: 20px;
+}
+
+.p{
+  text-align: center;
+}
+.two{
+  text-align: center;
+}
+.three{
+  text-align: center;
+}
+.howsyourday{
+  font-size: 24px;
+}
+.netart{
+  font-size: 24px;
+}
+.four{
+  text-align: center;
+}
+.five{
+  text-align: center;
+}
+.six{
+  text-align: center;
+}
+.codeart{
+  font-size: 24px;
+}
+a{
+  color: #FFEC40;
+}
+a:hover{
+  color: #F28705;
+}
+.button1 {
+  background-color:#F2B6C1;
+  border-radius: 12px;
+  color: #F2E63D;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: 'Architects Daughter', cursive;
+}
+button:hover{
+  background-color: #FFEC40;
+  color:#9BDAF2;
+}
+.button2 {
+  background-color:#F2B6C1;
+  border-radius: 12px;
+  color: #F2E63D;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  float: right;
+  font-family: 'Architects Daughter', cursive;
+}
