@@ -13,14 +13,10 @@ body:hover{
 .one{
     text-align: center;
 }
-#glitchart{
-  font-size: 24px;
-  color: #FFEC40;
-}
-#gunconflict{
-  font-size: 24px;
-  color: #FFEC40;
 
+strong{
+  font-size: 24px;
+  color: #FFEC40;
 }
 .word{
   margin-left: 80px;
@@ -41,12 +37,7 @@ body:hover{
 .three{
   text-align: center;
 }
-.howsyourday{
-  font-size: 24px;
-}
-.netart{
-  font-size: 24px;
-}
+
 .four{
   text-align: center;
 }
@@ -59,13 +50,7 @@ body:hover{
 .seven{
   text-align: center;
 }
-.codeart{
-  font-size: 24px;
-}
-.cubes{
-  font-size: 24px;
 
-}
 a{
   color: #FFEC40;
 }
